@@ -1,0 +1,8 @@
+apple
+ball
+cat
+dog
+zero
+one
+two
+three
